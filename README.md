@@ -21,7 +21,5 @@ Due dates (IST):
 The 3-day rule applies. Data tasks get 7 days.
 
 ## Team folders
+Team 8
 
-Name: Brajesh Kumar
-Axiom email: brajeshpal466@gmail.com
-Pack: en-dclm
